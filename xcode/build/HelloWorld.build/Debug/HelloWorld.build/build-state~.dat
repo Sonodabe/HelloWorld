@@ -1,0 +1,197 @@
+THelloWorld
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist" Info.plist
+cCpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld" normal i386
+cTouch "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004EED84FA00000000000000EE
+t1324188922
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004E2F297A0000000000006500
+t1311713658
+s25856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E2F297B0000000000025E48
+t1311713659
+s155208
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004E2F297B0000000000005FA8
+t1311713659
+s24488
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E2F297C0000000000014894
+t1311713660
+s84116
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E2DA6AF0000000000006530
+t1311614639
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E2DA6AF0000000000006560
+t1311614639
+s25952
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004F9D0514000000000007CED0
+t1335690516
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004F9D04D2000000000002E350
+t1335690450
+s189264
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004F9D072200000000004B7F60
+t1335691042
+s4947808
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004F9D069F000000000032B7E0
+t1335690911
+s3323872
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp
+c00000000503A99980000000000000215
+t1346017688
+s533
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000503A99A700000000000000A2
+t1346017703
+s162
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/CinderApp.icns
+c00000000503A9998000000000001BEB5
+t1346017688
+s114357
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/HelloWorld_Prefix.pch
+c00000000503A99980000000000000093
+t1346017688
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000503A99980000000000000350
+t1346017688
+s848
+
+CBuild AST from "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb1c25927d1eab541^f4366e27d1eab541^---0#1#0#--18"Check dependencies36"2D7BAA5A-17DC-49C4-B27F-967119751CDA-
+
+CCompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s367710503.808549
+e367710507.020267
+r1
+xCompileC
+x./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp69a9d027d1eab541^a532052bd1eab541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HelloWorld/xcode/../src/HelloWorldApp.cpp0000000000000000^2665"CompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o ../src/HelloWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug" -include /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch -MMD -MT dependencies -MF "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.d" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/../src/HelloWorldApp.cpp" -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o"36"3E6B21D1-D1F4-4107-8809-F2A8D10B4055-
+
+CCpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+s367710503.511998
+e367710503.750764
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns9e268327d1eab541^3f3bc027d1eab541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns00f44414deffdf42^511"CpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/CinderApp.icns" "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources"36"50AC9DDF-1729-46B1-B064-C127717B56C6-
+
+CLd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld" normal i386
+s367710507.028325
+e367710509.408117
+r1
+xLd
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld0470072bd1eab541^9e7a682dd1eab541^---0#0#0#--1084"Ld ./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld normal i386    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug" -filelist "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.5 ../../../../../../../../Applications/cinder/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld"36"18AA4494-1056-4A36-AEBB-9BE03CDB7F4B-
+
+CProcessInfoPlistFile "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist" Info.plist
+s367710503.460336
+e367710503.464069
+r1
+xProcessInfoPlistFile
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist
+xInfo.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plista2ec7527d1eab541^7fbc8327d1eab541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HelloWorld/xcode/Info.plist0000000000000000^516"ProcessInfoPlistFile ./build/Debug/HelloWorld.app/Contents/Info.plist Info.plist    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist"36"AB74680C-92B9-4EB3-BC06-478A326A508A-
+
+CProcessPCH++ /Users/brandonsonoda/Library/Developer/Xcode/DerivedData/HelloWorld-etqopogjwaecjlgeauzkpfelslit/Index/PrecompiledHeaders/HelloWorld_Prefix-adhonuarvpeekrbrwburgzxbzenv_ast/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s367710503.769018
+e367710503.801806
+r1
+xProcessPCH++
+x/var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile HelloWorld_Prefix.pchc903c527d1eab541^9e43cd27d1eab541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HelloWorld/xcode/HelloWorld_Prefix.pch0000000000000000^2585"ProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/build/Debug" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/HelloWorld_Prefix.pch" -o /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld_Prefix-erxykexsenoigxaabjosihkelpio/HelloWorld_Prefix.pch.d36"4AA19699-29CB-4D4F-A327-64B4C337095D-
+
+CTouch "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app"
+s367710509.417271
+e367710509.447662
+r1
+xTouch
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.appa4e36a2dd1eab541^0b9a722dd1eab541^---0#0#0#--253"Touch ./build/Debug/HelloWorld.app    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode"    /usr/bin/touch -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HelloWorld/xcode/./build/Debug/HelloWorld.app"36"E08972F7-014B-4D70-AB48-A6ED24E74DDA-
+
